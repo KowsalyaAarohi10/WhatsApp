@@ -2,3 +2,4 @@
 2. contacts
 3. Audio call
 4. Vido Call
+5. Group feature added with 100 users
